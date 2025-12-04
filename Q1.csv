@@ -1,0 +1,33 @@
+﻿Borough Name,Code,Count,Population,CrimeRate,TopCrimeType
+Barking and Dagenham,E09000002,86235,218869,394,Violence Against The Person
+Barnet,E09000003,126015,389344,323.7,Theft
+Bexley,E09000004,65930,246472,267.5,Violence Against The Person
+Brent,E09000005,136320,339816,401.2,Violence Against The Person
+Bromley,E09000006,103060,329992,312.3,Violence Against The Person
+Camden,E09000007,148805,210136,708.1,Theft
+Croydon,E09000008,147530,390719,377.6,Violence Against The Person
+Ealing,E09000009,138725,367115,377.9,Violence Against The Person
+Enfield,E09000010,115260,329984,349.3,Violence Against The Person
+Greenwich,E09000011,116495,289068,403,Violence Against The Person
+Hackney,E09000012,144665,259146,558.2,Theft
+Hammersmith and Fulham,E09000013,102660,183157,560.5,Theft
+Haringey,E09000014,139020,264238,526.1,Theft
+Harrow,E09000015,67205,261203,257.3,Violence Against The Person
+Havering,E09000016,86250,262052,329.1,Violence Against The Person
+Hillingdon,E09000017,124935,305909,408.4,Violence Against The Person
+Hounslow,E09000018,114060,288181,395.8,Violence Against The Person
+Islington,E09000019,137725,216589,635.9,Theft
+Kensington and Chelsea,E09000020,99455,143375,693.7,Theft
+Kingston upon Thames,E09000021,51110,168063,304.1,Theft
+Lambeth,E09000022,174950,317654,550.8,Theft
+Lewisham,E09000023,122830,300553,408.7,Violence Against The Person
+Merton,E09000024,65135,215186,302.7,Violence Against The Person
+Newham,E09000025,153810,351036,438.2,Violence Against The Person
+Redbridge,E09000026,100210,310260,323,Violence Against The Person
+Richmond upon Thames,E09000027,56710,195278,290.4,Theft
+Southwark,E09000028,161880,307637,526.2,Theft
+Sutton,E09000029,54740,209639,261.1,Violence Against The Person
+Tower Hamlets,E09000030,149950,310306,483.2,Theft
+Waltham Forest,E09000031,106210,278426,381.5,Violence Against The Person
+Wandsworth,E09000032,121590,327506,371.3,Theft
+Westminster,E09000033,245910,204236,1204,Theft
